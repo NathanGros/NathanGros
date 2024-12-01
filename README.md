@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan Gros</h1>
 
 🌱 I’m currently learning **Computer Science**
+<br>
 
-------
+------------
 
 <p>
   <h3>My GitHub Stats</h3>
@@ -19,5 +20,3 @@
 </p>
 
 <br><br><br><br><br><br><br><br>
-
-------
